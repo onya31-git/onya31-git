@@ -1,7 +1,7 @@
 ## 目標
--機械学習を用いたデータ分析ができるようになる
--
--
+- 機械学習を用いたデータ分析ができるようになる
+- 
+- 
 
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=onya31-git&show_icons=true&locale=en&layout=compact)
 <!--
