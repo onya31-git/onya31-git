@@ -51,17 +51,17 @@ Here are some of the projects I’m working on or have completed:
 
 ## 🛠️ Skills & Tools / スキル・ツール
 
-- Programming: Python, R, JavaScript, Dart
+- Programming: Python, C++, Java, JavaScript
 - Data Science: Pandas, NumPy, scikit-learn, XGBoost, LightGBM
 - ML & AI: TensorFlow, PyTorch
 - Dev Tools: Git, Docker, VS Code
-- Others: Streamlit, Flask, Firebase
+- Others: Flask
 
-- プログラミング言語：Python, R, JavaScript, Dart  
+- プログラミング言語：Python, C++, Java, JavaScript, 
 - データサイエンス：Pandas, NumPy, scikit-learn, XGBoost, LightGBM  
 - 機械学習／AI：TensorFlow, PyTorch  
 - 開発ツール：Git, Docker, VS Code  
-- その他：Streamlit, Flask, Firebase
+- その他：lask
 
 ---
 
