@@ -1,9 +1,11 @@
+## Hi there
+
+![](https://github-readme-stats.vercel.app/api/top-langs?username=onya31-git&show_icons=true&locale=en&layout=compact)
+
 ## 目標
 - 機械学習を用いたデータ分析ができるようになる
 - 
 - 
-
-![](https://github-readme-stats.vercel.app/api/top-langs?username=onya31-git&show_icons=true&locale=en&layout=compact)
 <!--
 **onya31-git/onya31-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
