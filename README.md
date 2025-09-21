@@ -37,7 +37,7 @@ Here are some of the projects I’m working on or have completed:
 |------|-------------|
 | `kaggle-notebooks/` | Exploratory Data Analysis, Model Training, Feature Engineering |
 | `P2P-Insole/` | Research 1 - 3D whole body skeleton estimation from foot data (pressure distribution, acceleration, rotation) |
-| `HSC-CNN/` | Research 2 - Estimating the sugar content of peaches using a hyperspectral camera and CNN |
+| `HSI-CNN/` | Research 2 - Estimating the sugar content of peaches using a hyperspectral camera and CNN |
 
 以下は現在取り組んでいる、あるいは過去に制作した主なプロジェクトです：
 
@@ -45,7 +45,7 @@ Here are some of the projects I’m working on or have completed:
 |------|------|
 | `kaggle-notebooks/` | 探索的データ分析、モデル構築、特徴量エンジニアリング |
 | `P2P-Insole/` | 研究1-足部データ(圧力分布、加速度、回転)からの3D全身骨格推定 |
-| `HSC-CNN/` | 研究2-Hyperspectral CameraとCNNを用いた桃の糖度推定 |
+| `HSI-CNN/` | 研究2-Hyperspectral CameraとCNNを用いた桃の糖度推定 |
 
 ---
 
