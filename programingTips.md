@@ -14,16 +14,17 @@
 ### 変数名によく使われるもの
 | 略語            | 意味             | 用途・備考         |
 | ------------- | -------------- | ------------- |
-| `c`, `ch`     | Character      | 1文字扱う変数       |
-| `s`, `str`    | String         | 文字列を扱う変数      |
+| `c`, `ch`     | Character      | 1文字扱う変数          |
+| `s`, `str`    | String         | 文字列を扱う変数       |
+| `i`           | Integer        | 整数を扱う変数         |
+| `p`           | Pointer        | ポインタ的な参照を示す  |
 | `i`, `j`, `k` | 整数 (Fortran由来) | ループカウンタに使用される |
-| `buf`, `buff` | Buffer         | 一時的なデータ格納領域   |
-| `temp`        | Temporary      | 仮・一時的な値       |
-| `n`, `num`    | Number         | 数値・要素数を示す     |
+| `buf`, `buff` | Buffer         | 一時的なデータ格納領域  |
+| `temp`        | Temporary      | 仮・一時的な値         |
+| `n`, `num`    | Number         | 数値・要素数を示す      |
 | `x`, `y`, `z` | 座標             | 位置情報などに使用     |
 | `r`           | Radius         | 半径            |
-| `p`           | Pointer        | ポインタ的な参照を示す   |
-| `rect`        | Rectangle      | 長方形領域         |
+| `rect`        | Rectangle      | 長方形領域      |
 | `func`        | Function       | 関数            |
 | `arg`         | Argument       | 引数            |
 
@@ -42,6 +43,10 @@
 | `sts`  | Status    | 状態・ステータス |
 | `cnfg` | Configure | 構成・設定情報  |
 
+### よく使う略語
+| `a` |   a  |   a |
+| `a` |   a  |  a  |
+| `a` |   a  | a   |
 
 ## ティップス
 ### 日付接頭辞
@@ -62,3 +67,4 @@ S001T003A001M003_datanogaiyou
 
 - [プログラミングの命名規則とは？（odigo.jp）](https://odigo.jp/%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0%E3%81%AE%E5%91%BD%E5%90%8D%E8%A6%8F%E5%89%87%E3%81%A8%E3%81%AF%EF%BC%9F)
 - [Pythonの命名規則まとめ（Qiita / Shons_a）](https://qiita.com/Shons_a/items/bd6eed229253ee266b7d)
+- [プログラミングでよく使う英単語のまとめ(Qiita / Ted-HM)](https://qiita.com/Ted-HM/items/7dde25dcffae4cdc7923)
