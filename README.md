@@ -61,7 +61,7 @@ Here are some of the projects I’m working on or have completed:
 - データサイエンス：Pandas, NumPy, scikit-learn, XGBoost, LightGBM  
 - 機械学習／AI：TensorFlow, PyTorch  
 - 開発ツール：Git, Docker, VS Code  
-- その他：lask
+- その他：flask
 
 ---
 
