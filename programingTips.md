@@ -69,3 +69,4 @@ S001T003A001_datanogaiyou
 - [プログラミングの命名規則とは？（odigo.jp）](https://odigo.jp/%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0%E3%81%AE%E5%91%BD%E5%90%8D%E8%A6%8F%E5%89%87%E3%81%A8%E3%81%AF%EF%BC%9F)
 - [Pythonの命名規則まとめ（Qiita / Shons_a）](https://qiita.com/Shons_a/items/bd6eed229253ee266b7d)
 - [プログラミングでよく使う英単語のまとめ(Qiita / Ted-HM)](https://qiita.com/Ted-HM/items/7dde25dcffae4cdc7923)
+- [【命名規則】キャメル・スネーク・ケバブ... 結局どれをいつ使う？言語別ベストプラクティスまとめ](https://zenn.dev/imohuke/articles/naming-conventions-camel-snake-kebab-guide)
