@@ -8,10 +8,7 @@ I’m currently building projects that combine **AI algorithms**, **mathematical
 現在は、**データサイエンス**、**アプリ開発**、**機械学習を用いたエンジニアリング**を中心に学習・開発を進めています。  
 **AIアルゴリズム**や**数理モデル**、**統計的なアプローチ**に特に強い関心があります。
 
-<div align="left"> 
-  <img alt="Top Langs" height="170px" src="https://github-readme-stats.vercel.app/api?username=onya31-git&theme=vue-dark&layout=compact" />
-  <img alt="github stats" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=onya31-git&theme=vue-dark&layout=compact" />
-</div>
+
 ---
 
 ## 🔭 Current Focus / 現在取り組んでいること
