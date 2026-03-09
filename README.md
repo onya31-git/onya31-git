@@ -30,35 +30,30 @@ My goal is to become a **data scientist who can contribute meaningfully to socie
 
 ## 📂 Featured Repositories / 主なリポジトリ
 
-Here are some of the projects I’m working on or have completed:
+Here are some of the projects I’m working on or have completed:<br>
+以下は現在取り組んでいる、あるいは過去に制作した主なプロジェクトです：
 
 | Name | Description |
 |------|-------------|
-| `kaggle-notebooks/` | Exploratory Data Analysis, Model Training, Feature Engineering |
-| `P2P-Insole/` | Research 1 - 3D whole body skeleton estimation from foot data (pressure distribution, acceleration, rotation) |
-| `HSI-CNN/` | Research 2 - Estimating the sugar content of peaches using a hyperspectral camera and CNN |
+| `kaggle-notebooks/` | Exploratory Data Analysis, Model Training, Feature Engineering  <br>探索的データ分析、モデル構築、特徴量エンジニアリング|
+| `P2P-Insole/` | Research 1 - 3D whole body skeleton estimation from foot data (pressure distribution, acceleration, rotation)  <br>研究1-足部データ(圧力分布、加速度、回転)からの3D全身骨格推定|
+| `HSI-CNN/` | Research 2 - Estimating the sugar content of peaches using a hyperspectral camera and CNN  <br>研究2-Hyperspectral CameraとCNNを用いた桃の糖度推定 |
 
 以下は現在取り組んでいる、あるいは過去に制作した主なプロジェクトです：
-
-| 名前 | 説明 |
-|------|------|
-| `kaggle-notebooks/` | 探索的データ分析、モデル構築、特徴量エンジニアリング |
-| `P2P-Insole/` | 研究1-足部データ(圧力分布、加速度、回転)からの3D全身骨格推定 |
-| `HSI-CNN/` | 研究2-Hyperspectral CameraとCNNを用いた桃の糖度推定 |
 
 ---
 
 ## 🛠️ Skills & Tools / スキル・ツール
 
-- **Programming Languages / プログラミング言語**: Python, Java, JavaScript, C++, C
-- **Data Science / データサイエンス**: Pandas, Polars, NumPy, Matplotlib, Seaborn, scikit-learn, XGBoost, LightGBM
-- **Machine Learning & Deep Learning / 機械学習・深層学習**: PyTorch, TensorFlow
-- **Web App Development / Webアプリ開発**: Flask, Dash, Streamlit, SpringBoot, Gradle
-- **Front End / フロントエンド**: HTML, CSS, JQuery, jinja
-- **Database / データベース**: PostgreSQL, SQLite
-- **Generative art / ジェネラティブアート**: Processing
-- **Dev Tools / 開発ツール: Git, Docker, VS Code, Eclipse
-- **Others / その他**: 
+- **Programming Languages / プログラミング言語** <br> Python, Java, JavaScript, C++, C
+- **Data Science / データサイエンス** <br> Pandas, Polars, NumPy, Matplotlib, Seaborn, scikit-learn, XGBoost, LightGBM
+- **Machine Learning & Deep Learning / 機械学習・深層学習** <br> PyTorch, TensorFlow
+- **Web App Development / Webアプリ開発** <br> Flask, Dash, Streamlit, SpringBoot, Gradle
+- **Front End / フロントエンド** <br> HTML, CSS, JQuery, jinja
+- **Database / データベース** <br> PostgreSQL, SQLite
+- **Generative art / ジェネラティブアート** <br> Processing
+- **Dev Tools / 開発ツール** <br> Git, Docker, VS Code, Eclipse
+- **Others / その他** <br>
 
 ---
 
