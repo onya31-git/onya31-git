@@ -50,12 +50,15 @@ Here are some of the projects I’m working on or have completed:
 
 ## 🛠️ Skills & Tools / スキル・ツール
 
-- Programming: Python, C++, Java, JavaScript
-- Data Science: Pandas, Polars, NumPy, Matplotlib, Seaborn, scikit-learn, XGBoost, LightGBM
-- ML & AI: PyTorch, TensorFlow
-- Web Application Development: Flask, Dash, Streamlit, SpringBoot, Thymeleaf
-- Dev Tools: Git, Docker, VS Code, Eclipse
-- Others: 
+- **Programming Languages / プログラミング言語**: Python, Java, JavaScript, C++, C
+- **Data Science / データサイエンス**: Pandas, Polars, NumPy, Matplotlib, Seaborn, scikit-learn, XGBoost, LightGBM
+- **Machine Learning & Deep Learning / 機械学習・深層学習**: PyTorch, TensorFlow
+- **Web App Development / Webアプリ開発**: Flask, Dash, Streamlit, SpringBoot, Gradle
+- **Front End / フロントエンド**: HTML, CSS, JQuery, jinja
+- **Database / データベース**: PostgreSQL, SQLite
+- **Generative art / ジェネラティブアート**: Processing
+- **Dev Tools / 開発ツール: Git, Docker, VS Code, Eclipse
+- **Others / その他**: 
 
 ---
 
