@@ -39,8 +39,6 @@ Here are some of the projects I’m working on or have completed:<br>
 | `P2P-Insole/` | Research 1 - 3D whole body skeleton estimation from foot data (pressure distribution, acceleration, rotation)  <br>研究1-足部データ(圧力分布、加速度、回転)からの3D全身骨格推定|
 | `HSI-CNN/` | Research 2 - Estimating the sugar content of peaches using a hyperspectral camera and CNN  <br>研究2-Hyperspectral CameraとCNNを用いた桃の糖度推定 |
 
-以下は現在取り組んでいる、あるいは過去に制作した主なプロジェクトです：
-
 ---
 
 ## 🛠️ Skills & Tools / スキル・ツール
