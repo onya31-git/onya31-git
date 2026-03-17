@@ -8,7 +8,6 @@ I’m currently building projects that combine **AI algorithms**, **mathematical
 現在は、**データサイエンス**、**アプリ開発**、**機械学習を用いたエンジニアリング**を中心に学習・開発を進めています。  
 **AIアルゴリズム**や**数理モデル**、**統計的なアプローチ**に特に強い関心があります。
 
-
 ---
 
 ## 🔭 Current Focus / 現在取り組んでいること
