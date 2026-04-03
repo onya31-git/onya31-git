@@ -4,7 +4,7 @@
 Hi there! I'm Onya31, a university student studying IT, with a strong passion for **data science**, **app development**, and **machine learning engineering**.  
 I’m currently building projects that combine **AI algorithms**, **mathematical modeling**, and **statistical analysis** to solve real-world problems.
 
-こんにちは！情報を専攻している大学生の温野菜です。  
+こんにちは！大学で情報を専攻している温野菜です。  
 現在は、**データサイエンス**、**アプリ開発**、**機械学習を用いたエンジニアリング**を中心に学習・開発を進めています。  
 **AIアルゴリズム**や**数理モデル**、**統計的なアプローチ**に特に強い関心があります。
 
