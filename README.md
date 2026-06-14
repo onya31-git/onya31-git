@@ -12,9 +12,9 @@ I’m currently building projects that combine **AI algorithms**, **mathematical
 
 ## 🔭 Current Focus / 現在取り組んでいること
 
-- 📊 Kaggle Notebooks – Data analysis & visualization projects (Kaggleノートブックによるデータ分析・可視化)
-- 📱 App development using Python, Flutter, and other modern frameworks (PythonやFlutterなどを用いたアプリケーション開発)  
-- 🧠 Applying machine learning models to practical use cases (機械学習モデルを用いた実用的なプロジェクトの構築)
+- 📊 Kaggle Notebooks – Data analysis & visualization projects <br>(Kaggleノートブックによるデータ分析・可視化)
+- 📱 App development using Python, Flutter, and other modern frameworks <br> (PythonやFlutterなどを用いたアプリケーション開発)  
+- 🧠 Applying machine learning models to practical use cases <br> (機械学習モデルを用いた実用的なプロジェクトの構築)
 
 ---
 
@@ -35,8 +35,8 @@ Here are some of the projects I’m working on or have completed:<br>
 | Name | Description |
 |------|-------------|
 | `kaggle-notebooks/` | Exploratory Data Analysis, Model Training, Feature Engineering  <br>探索的データ分析、モデル構築、特徴量エンジニアリング|
+| `No_x_project/` | Self-produced application  <br>自主制作アプリケーション |
 | `P2P-Insole/` | Research 1 - 3D whole body skeleton estimation from foot data (pressure distribution, acceleration, rotation)  <br>研究1-足部データ(圧力分布、加速度、回転)からの3D全身骨格推定|
-| `HSI-CNN/` | Research 2 - Estimating the sugar content of peaches using a hyperspectral camera and CNN  <br>研究2-Hyperspectral CameraとCNNを用いた桃の糖度推定 |
 
 ---
 
