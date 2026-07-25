@@ -35,7 +35,7 @@ Here are some of the projects I’m working on or have completed:<br>
 | Name | Description |
 |------|-------------|
 | `kaggle-notebooks/` | Exploratory Data Analysis, Model Training, Feature Engineering  <br>探索的データ分析、モデル構築、特徴量エンジニアリング|
-| `No_x_project/` | Self-produced application  <br>自主制作アプリケーション |
+| `Nox_project/` | Self-produced application  <br>自主制作アプリケーション |
 | `P2P-Insole/` | Research 1 - 3D whole body skeleton estimation from foot data (pressure distribution, acceleration, rotation)  <br>研究1-足部データ(圧力分布、加速度、回転)からの3D全身骨格推定|
 
 ---
